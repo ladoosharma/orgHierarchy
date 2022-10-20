@@ -77,7 +77,7 @@ export default class GenericPicklistValueGetterCmp extends LightningElement {
         }
         if(error){
             //handle error
-            console.log(error);
+            console.debug(error);
         }
     }
 }
