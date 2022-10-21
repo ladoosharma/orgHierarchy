@@ -70,6 +70,9 @@ export default class RenderHierarchyCmp extends LightningElement {
 
     }
     addingDummyMethod(){
-        
+
+    }
+    addingDummyMethodForCommit2(){
+        //adding extra lines
     }
 }
